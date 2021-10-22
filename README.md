@@ -24,6 +24,12 @@ Projeto desenvolvido durante o curso Análise e Desenvolvimento de Sistemas mini
 
 O repositório das atividades desenvolvidas no curso pode ser acessado <a href="https://github.com/kazenski-dev/23_N1_Negocios_Web_Juan">aqui</a>
 
+
+### Para você utilizar o arquivo: :pencil:
+
+Basta você efetuar o download do arquivo "calculadora.html" e abrir o mesmo. 
+
+
 <hr>
 
 Projeto desenvolvido com horas a frente do computador por: Eduardo Kazenski.
