@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso Análise e Desenvolvimento de Sistemas mini
 
 <hr>
 <p align="center">
-  <img src="https://github.com/ChristopherHauschild/projeto-calculadora-vueJS/blob/master/calculator.PNG"/>
+  <img src="https://github.com/kazenski-dev/23_N1_Negocios_Web_Juan/blob/main/Imagem_calculadora.png"/>
 </p>
 
 ## Linguagens e tecnologias utilizadas no projeto:
