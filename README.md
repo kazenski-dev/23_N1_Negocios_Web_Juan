@@ -22,7 +22,7 @@ Projeto desenvolvido durante o curso Análise e Desenvolvimento de Sistemas mini
 
 ### Maiores informações: :pencil:
 
-O repositório das atividades desenvolvidas no curso pode ser acessado <a href="https://github.com/ChristopherHauschild/curso-web-moderno-cod3r">aqui</a>
+O repositório das atividades desenvolvidas no curso pode ser acessado <a href="https://github.com/kazenski-dev/23_N1_Negocios_Web_Juan">aqui</a>
 
 <hr>
 
